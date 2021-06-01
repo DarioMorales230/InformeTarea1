@@ -6,7 +6,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1.1. Objetivo General 
 
-• Saber, conoer y explicar la manera que funcionan los circuitos, cargas, unidades de medida en la vida cotidiana y en que medio se desarrollan utilizando calculos numericos tanto en notacion de potencias de diez como en notacion de ingenieria.
+• Saber, conoer y explicar como funcionan los circuitos, cargas, unidades de medida en la vida cotidiana y en que medio se desarrollan utilizando calculos numericos tanto en notacion de potencias de diez como en notacion de ingenieria.
 
 1.2. Objetivo Especifico
 
@@ -67,6 +67,12 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 4. Video 
 
 5. Conclusiones
+
+•	Se logro conocer de manera eficiente el manejo y las utilidades de los circuitos electricos con sus respectivos funcionamientos.
+
+•	Se logro dominar las unidades de medida con sus respectivos sistemas referenciales para un calculo determinado donde tengas cifras muy altas o muy pequeñas. 
+
+•	Se logro la apreciacion de el funcionamiento universal de las cargas donde hay polos diferentes como tambien fuerzas de atraccion y repulsion.
 
 6. Bibliografia 
 
