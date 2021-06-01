@@ -66,6 +66,8 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 4. Video 
 
+https://www.youtube.com/watch?v=AYefVNAj5pQ
+
 5. Conclusiones
 
 •	Se logro conocer de manera eficiente el manejo y las utilidades de los circuitos electricos con sus respectivos funcionamientos.
