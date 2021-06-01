@@ -76,4 +76,5 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 6. Bibliografia 
 
+Análisis de ciruitos - Robbins.pdf
 
